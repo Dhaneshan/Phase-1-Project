@@ -1,0 +1,3 @@
+First We create the file with help File Method.
+For Write in the file we use Writer Method.
+For Read we use the Reader Method.
